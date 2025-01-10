@@ -1,0 +1,9 @@
+time,strategy,identifier,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
+2024-02-23 09:30:00-05:00,Trader,7e56a6dd7c174a13ac6be84ec6e2460b,NVDA,buy,market,new,1,gtc,0.0,1,stock,,,
+2024-02-23 09:30:00-05:00,Trader,7e56a6dd7c174a13ac6be84ec6e2460b,NVDA,buy,market,fill,1,gtc,0.0,1,stock,80.79000091552734,619.0,0.0
+2024-03-19 09:30:00-04:00,Trader,af3ba0b7fcb74e1e9b11786616fc4e86,NVDA,buy,market,new,1,gtc,0.0,1,stock,,,
+2024-03-19 09:30:00-04:00,Trader,af3ba0b7fcb74e1e9b11786616fc4e86,NVDA,buy,market,fill,1,gtc,0.0,1,stock,86.69999694824219,288.0,0.0
+2024-06-21 09:30:00-04:00,Trader,e020603cb59641718e98cd99749511e6,NVDA,buy,market,new,1,gtc,0.0,1,stock,,,
+2024-06-21 09:30:00-04:00,Trader,e020603cb59641718e98cd99749511e6,NVDA,buy,market,fill,1,gtc,0.0,1,stock,127.12000274658203,98.0,0.0
+2024-11-21 09:30:00-05:00,Trader,ba8f8ed6b061406c9ed8d9cf103b1b0b,NVDA,buy,market,new,1,gtc,0.0,1,stock,,,
+2024-11-21 09:30:00-05:00,Trader,ba8f8ed6b061406c9ed8d9cf103b1b0b,NVDA,buy,market,fill,1,gtc,0.0,1,stock,149.35000610351562,42.0,0.0
